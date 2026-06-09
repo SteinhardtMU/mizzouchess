@@ -8,7 +8,7 @@
 [WhiteElo "1905"]
 [BlackElo "1830"]
 
-{[%SevillaID "1033"]}
+{[%SevillaID "1049"]}
 *
 
 [Event "2026 Mizzou Summer Invitational"]
@@ -17,12 +17,36 @@
 [Round "3"]
 [White "Christian Kasten"]
 [Black "Muktai Desai"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "1644"]
 [BlackElo "1722"]
 
-{[%SevillaID "1034"]}
-*
+{[%SevillaID "1050"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.06.09"] [Round "-"] [White
+"Knightmare_fuel95"] [Black "MuktaiD"] [Result "1/2-1/2"] [CurrentPosition
+"8/8/8/p2b4/8/2K5/k1N5/8 b - - 7 69"] [Timezone "UTC"] [ECO "D00"] [ECOUrl
+"https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...e6"]
+[UTCDate "2026.06.09"] [UTCTime "01:52:04"] [WhiteElo "2073"] [BlackElo "1129"]
+[TimeControl "1800+30"] [Termination "Game drawn by agreement"] [StartTime
+"01:52:04"] [EndDate "2026.06.09"] [EndTime "01:52:04"] [Link
+"https://www.chess.com/analysis/game/live/169917621098/analysis? move=64"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/55757166.2a251a
+c4.50x50o.90e777b07a11.jpg"] [WhiteCountry "166"] [WhiteTitle ""] [BlackUrl
+"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif "]
+[BlackCountry "69"] [BlackTitle ""]  1. d4 d5 2. Bf4 e6 3. Nf3 c5 4. e3 Nf6 5.
+c3 Be7 6. Nbd2 cxd4 7. exd4 Nc6 8. Bd3 a6 9. Ne5 Nd7 10. Qh5 $6 Ncxe5 11. dxe5
+g6 12. Qg4 $4 g5 $1 13. Be3 Nxe5 14. Qe2 Nxd3+ 15. Qxd3 Qc7 $2 16. h4 $6 gxh4
+17. Nf3 Bd7 18. O-O-O O-O-O $6 19. Bd4 $2 f6 20. Qe3 Rdf8 $6 21. Rxh4 Qa5 $2 22.
+Kb1 $6 e5 23. Ba7 Bd6 $4 24. Ka1 $6 Kc7 $4 25. b4 $1 Qb5 $2 26. Bc5 $2 Bxc5 $1
+27. bxc5 Qc6 $2 28. Rb4 Bc8 $2 29. Rb6 Qa4 30. Rxd5 $2 Rd8 31. Qd2 $9 Rxd5 32.
+Qxd5 Rd8 33. Rd6 $9 Qe8 $9 34. Nd2 Bd7 $2 35. Ne4 $9 Bc6 $1 36. Rxd8 Qxd8 37.
+Qxd8+ Kxd8 38. Nxf6 Bxg2 39. Nxh7 Kc7 40. Kb2 Kc6 41. Nf6 Kxc5 42. a3 Kc4 43.
+Nd7 e4 44. Ne5+ Kd5 45. Ng4 Bf3 46. Ne3+ Kc5 47. Kb3 Bh5 48. c4 Bf7 49. Kc3 b5
+50. cxb5 Kxb5 51. Nf5 Ka4 52. Kb2 Bd5 53. Ne3 Be6 54. Nd1 Ka5 55. Nc3 Bf5 56.
+Kb3 Be6+ 57. Kb2 Bf5 58. Kc2 e3+ 59. Kd1 $1 exf2 60. Ke2 $1 Kb6 61. Kxf2 Kc5 62.
+Ke3 Kc4 63. Kd2 Kb3 64. Nd5 Kxa3 65. Kc3 a5 66. Ne3 Be6 67. Nc2+ Ka2 68. Nd4 Bd5
+69. Nc2 1/2-1/2 
+1/2-1/2
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -34,7 +58,7 @@
 [WhiteElo "1585"]
 [BlackElo "1716"]
 
-{[%SevillaID "1035"]}
+{[%SevillaID "1051"]}
 *
 
 [Event "2026 Mizzou Summer Invitational"]
@@ -47,7 +71,7 @@
 [WhiteElo "1365"]
 [BlackElo "2218"]
 
-{[%SevillaID "1036"]}
+{[%SevillaID "1052"]}
 *
 
 [Event "2026 Mizzou Summer Invitational"]
@@ -60,7 +84,7 @@
 [WhiteElo "1023"]
 [BlackElo "1400"]
 
-{[%SevillaID "1040"]}
+{[%SevillaID "1056"]}
 *
 
 [Event "2026 Mizzou Summer Invitational"]
@@ -73,7 +97,7 @@
 [WhiteElo "1304"]
 [BlackElo "1767"]
 
-{[%SevillaID "1039"]}
+{[%SevillaID "1055"]}
 *
 
 [Event "2026 Mizzou Summer Invitational"]
@@ -86,7 +110,7 @@
 [WhiteElo "685"]
 [BlackElo "1100"]
 
-{[%SevillaID "1038"]}
+{[%SevillaID "1054"]}
 *
 
 [Event "2026 Mizzou Summer Invitational"]
@@ -99,7 +123,7 @@
 [WhiteElo "1667"]
 [BlackElo "1605"]
 
-{[%SevillaID "1037"]}
+{[%SevillaID "1053"]}
 *
 
 
