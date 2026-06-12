@@ -54,12 +54,42 @@ Ke3 Kc4 63. Kd2 Kb3 64. Nd5 Kxa3 65. Kc3 a5 66. Ne3 Be6 67. Nc2+ Ka2 68. Nd4 Bd5
 [Round "3"]
 [White "Charles Steinhardt"]
 [Black "Henry Heil"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "1585"]
 [BlackElo "1716"]
 
 {[%SevillaID "1051"]}
-*
+[Event "Live Chess - Bughouse"] [Site "Chess.com"] [Date "2026.06.12"] [Round
+"?"] [WhiteA "CSteinhardt"] [BlackA "SDAFan"] [WhiteB "jaegern"] [BlackB
+"maplesyrupd"] [Result "1-0"] [Variant "Bughouse"] [SetUp "1"] [FEN
+"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR/ w KQkq - 0 1 |
+rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR/ w KQkq - 0 1"] [TimeControl "180"]
+[WhiteElo "1506"] [BlackElo "1710"] [Termination "CSteinhardt won by checkmate"]
+[PartnerTermination "with their bughouse partner"] [ECO "C01"] [EndTime "1:45:27
+GMT+0000"] [Link "https://www.chess.com/game/live/175542112873?
+username=sdafan"]  1A. e4 1B. e4 {[%clk 0:02:59.7]} 1a. e6 2A. d4 1b. e6 {[%clk
+0:02:56.9]} 2a. d5 2B. Nf3 {[%clk 0:02:57.2]} 3A. exd5 2b. d5 {[%clk 0:02:56.2]}
+3a. exd5 3B. exd5 {[%clk 0:02:54.9]} 4A. Nf3 3b. Qxd5 {[%clk 0:02:55.7]} 4a. Bg4
+4B. d4 {[%clk 0:02:48.9]} 4b. Nc6 {[%clk 0:02:53.5]} 5A. Bb5+ 5a. c6 6A. Be2 6a.
+Be7 7A. Ne5 5B. Nc3 {[%clk 0:02:36.2]} 7a. Bxe2 8A. Qxe2 8a. Nf6 9A. Bg5 5b. Qd8
+{[%clk 0:02:46.1]} 9a. O-O 6B. Be3 {[%clk 0:02:32.3]} 10A. Bxf6 10a. Bxf6 6b.
+Bb4 {[%clk 0:02:34.1]} 11A. O-O 11a. Nd7 7B. Be2 {[%clk 0:02:28.7]} 7b. Bxc3+
+{[%clk 0:02:32.8]} 8B. bxc3 {[%clk 0:02:28.3]} 12A. Nxd7 12a. Qxd7 13A. Nd2 8b.
+B@g4 {[%clk 0:02:24.7]} 13a. Bxd4 14A. c3 9B. O-O {[%clk 0:02:24.5]} 14a. Bf6
+15A. Rae1 9b. Bxf3 {[%clk 0:02:22.2]} 10B. Bxf3 {[%clk 0:02:23]} 10b. @d5 {[%clk
+0:02:18]} 15a. Rae8 16A. Qf3 16a. @e4 11B. @e5 {[%clk 0:02:02.2]} 17A. Qg3 17a.
+Be5 18A. f4 11b. Nge7 {[%clk 0:01:48.7]} 18a. exf3 19A. Rxe5 12B. @b5 {[%clk
+0:01:59.3]} 12b. Nb8 {[%clk 0:01:44.6]} 19a. fxg2 13B. @h3 {[%clk 0:01:51.5]}
+13b. Bd7 {[%clk 0:01:39.8]} 14B. @a4 {[%clk 0:01:48.4]} 14b. a6 {[%clk
+0:01:36.5]} 20A. Qxg7+ 20a. Kxg7 21A. $146@h5+ 15B. B@e2 {[%clk 0:01:29.1]} 21a.
+Kh6 15b. axb5 {[%clk 0:01:34.9]} 16B. axb5 {[%clk 0:01:22.3]} 22A. Rf6 + 22a.
+B@g6 16b. B@c4 {[%clk 0:01:22.1]} 17B. $146@d3 {[%clk 0:01:18.4]} 17b. Bxd3
+{[%clk 0:01:19]} 18B. cxd3 {[%clk 0:01:15]} 18b. $146@f5 {[%clk 0:01:12.8]} 23A.
+@g5+ 23a. Kxh5 24A. $146@f4+ 19B. Bd2 {[%clk 0:01:05.4]} 24a. Kg4 25A. @f3+ 19b.
+Bxb5 {[%clk 0:01:03.1][%c_effect
+e8;square;e8;type;Winner;animated;true;persistent;true,g1;square;g1;typ
+e;BughouseWhite;animated;true;persistent;true]} 25a. Kh4 26A. @g3# 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -106,12 +136,22 @@ Ke3 Kc4 63. Kd2 Kb3 64. Nd5 Kxa3 65. Kc3 a5 66. Ne3 Be6 67. Nc2+ Ka2 68. Nd4 Bd5
 [Round "3"]
 [White "Riley Duncan"]
 [Black "Parker Johnson"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "685"]
 [BlackElo "1100"]
 
 {[%SevillaID "1054"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.06.11"] [Round "?"] [White
+"RDunk1"] [Black "duck739"] [Result "1-0"] [TimeControl "1800+30"] [WhiteElo
+"1412"] [BlackElo "1154"] [Termination "RDunk1 won by resignation"] [ECO "D00"]
+[EndTime "22:54:45 GMT+0000"] [Link
+"https://www.chess.com/game/live/170061582766"]  1. d4 Nf6 2. Nc3 d5 3. Bf4 Nc6
+4. Nb5 Rb8 5. Bxc7 Qd7 6. Bxb8 Nxb8 7. e3 a6 8. Nc3 e6 9. Bd3 Bb4 10. Ne2 O-O
+11. a3 Ba5 12. b4 Bb6 13. O-O Nc6 14. Nf4 Re8 15. Nh5 g6 16. Nxf6+ Kh8 17. Nxd7
+Bxd7 18. Qf3 Kg7 19. h4 f5 20. Ne2 Kf6 21. Nf4 Bc7 22. c4 Na7 23. cxd5 Bxf4 24.
+Qxf4 exd5 25. Qd6+ Be6 26. Rac1 Nc6 27. Rxc6 bxc6 28. Qxc6 Re7 29. Qxa6 h5 30.
+Rc1 Kf7 31. Qb6 Bd7 32. Bb5 Be6 33. Rc7 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
