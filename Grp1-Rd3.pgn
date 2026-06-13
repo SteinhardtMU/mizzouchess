@@ -97,12 +97,22 @@ e;BughouseWhite;animated;true;persistent;true]} 25a. Kh4 26A. @g3# 1-0
 [Round "3"]
 [White "Nick Jaeger"]
 [Black "Neil Fox"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "1365"]
 [BlackElo "2218"]
 
 {[%SevillaID "1052"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.06.12"] [Round "?"] [White
+"jaegern"] [Black "meteozorro"] [Result "0-1"] [TimeControl "1800+30"] [WhiteElo
+"1766"] [BlackElo "2251"] [Termination "meteozorro won by checkmate"] [Link
+"https://www.chess.com/game/170113823352? username=jaegern"]  1. Nf3 c5 2. d3
+Nc6 3. g3 d5 4. Bg2 Nf6 5. O-O g6 6. c4 Bg7 7. cxd5 Nxd5 8. Qc2 b6 9. a3 O-O 10.
+Nc3 Nxc3 11. bxc3 Bb7 12. Bb2 c4 13. Rad1 cxd3 14. Rxd3 Qc7 15. Rfd1 Rad8 16. c4
+Bxb2 17. Qxb2 Na5 18. Rxd8 Rxd8 19. Rxd8+ Qxd8 20. Qc2 Qd6 21. Ng5 Bxg2 22. Kxg2
+Qxa3 23. Qe4 Qc5 24. Qa8+ Kg7 25. Qxa7 Qxg5 26. Qxb6 Qe5 27. c5 Qe4+ 28. Kg1 Nc6
+29. f3 Qe3+ 30. Kf1 Ne5 31. Qc7 Nc4 32. c6 Nd2 + 33. Kg2 Qxe2+ 34. Kh3 Qf1+ 35.
+Kh4 Nxf3+ 36. Kg4 Nxh2+ 37. Kh4 g5+ 38. Kxg5 Qf6+ 39. Kh5 Qh6# 0-1 
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
