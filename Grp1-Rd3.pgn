@@ -164,12 +164,12 @@ Re7+ 55. Kf8 Qd6 56. Kg8 Qd8# 0-1
 [Round "3"]
 [White "Paul Arnone"]
 [Black "Brooks Sonethongkam"]
-[Result "0-0"]
+[Result "*"]
 [WhiteElo "1304"]
 [BlackElo "1767"]
 
 {[%SevillaID "1055"]}
-0-0
+*
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -179,7 +179,7 @@ Re7+ 55. Kf8 Qd6 56. Kg8 Qd8# 0-1
 [Black "Parker Johnson"]
 [Result "1-0"]
 [WhiteElo "685"]
-[BlackElo "1100"]
+[BlackElo "854"]
 
 {[%SevillaID "1054"]}
 [Event "Live Chess"] [Site "Chess.com"] [Date "2026.06.11"] [Round "?"] [White
