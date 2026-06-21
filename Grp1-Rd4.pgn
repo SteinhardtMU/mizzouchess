@@ -31,12 +31,24 @@ Rb6 Ke7 46. Rxc6 Kd7 47. Ra6 Kc7 48. Kf3 e5 49. Ra7+ Kc6 50. a5 Kb5 51. a6 f5
 [Round "4"]
 [White "Lincoln Peters"]
 [Black "Christian Kasten"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "1830"]
 [BlackElo "1644"]
 
 {[%SevillaID "1103"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.06.21"] [Round "?"] [White
+"Lincoln"] [Black "Knightmare_fuel95"] [Result "0-1"] [TimeControl "1800+30"]
+[WhiteElo "2114"] [BlackElo "2073"] [Termination "Knightmare_fuel95 won by
+resignation"] [ECO "B40"] [EndTime "22:13:54 GMT+0000"] [Link
+"https://www.chess.com/game/live/170528272956? username=knightmare_fuel95"]  1.
+e4 c5 2. Nc3 e6 3. Nf3 d5 4. d4 Nc6 5. Bb5 Bd7 6. exd5 exd5 7. Nxd5 Nxd4 8. Nxd4
+cxd4 9. Qe2+ Be7 10. O-O Rc8 11. Nxe7 Nxe7 12. Bxd7+ Qxd7 13. Re1 f6 14. b3 Kf7
+15. Qh5+ Ng6 16. Ba3 Rce8 17. Rxe8 Rxe8 18. h3 Re5 19. Qf3 Rg5 20. Qd3 Nf4 21.
+Qc4+ Kg6 22. Kf1 Rxg2 23. Bc1 Qxh3 24. Bxf4 Qh1+ 25. Ke2 Qxa1 26. Qd3+ f5 27.
+Qc4 h6 28. Qe6+ Kh7 29. Qxf5+ Rg6 30. a4 Qc3 31. Be5 d3+ 32. cxd3 Qxb3 33. Qe4
+b5 34. axb5 Qxb5 35. f4 Qc6 36. Qf5 Qg2+ 37. Ke3 a5 38. d4 a4 39. d5 Qxd5 40.
+Qc2 Qb3+ 0-1 
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -44,12 +56,27 @@ Rb6 Ke7 46. Rxc6 Kd7 47. Ra6 Kc7 48. Kf3 e5 49. Ra7+ Kc6 50. a5 Kb5 51. a6 f5
 [Round "4"]
 [White "Neil Fox"]
 [Black "Muktai Desai"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "2218"]
 [BlackElo "1722"]
 
 {[%SevillaID "1104"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.06.21"] [Round "?"] [White
+"meteozorro"] [Black "MuktaiD"] [Result "1-0"] [TimeControl "1800+30"] [WhiteElo
+"2238"] [BlackElo "1128"] [Termination "meteozorro won by resignation"] [ECO
+"A15"] [EndTime "0:38:27 GMT+0000"] [Link
+"https://www.chess.com/game/live/170485797560? username=meteozorro"]  1. c4 Nf6
+2. Nc3 g6 3. g3 Bg7 4. Bg2 c6 5. e4 d6 6. Nge2 e5 7. O-O O-O 8. d3 Be6 9. Bg5
+Qb6 10. Qd2 Na6 11. a3 Nc5 12. Nc1 Bd7 13. b4 Ne6 14. Bh6 Nd4 15. Bxg7 Kxg7 16.
+N3e2 Ne6 17. h3 Nh5 18. Kh2 f5 19. exf5 gxf5 20. Ng1 h6 21. Qe2 Be8 22. c5 Qc7
+23. cxd6 Qxd6 24. Re1 e4 25. dxe4 f4 26. e5 Qd4 27. Qg4+ Ng5 28. Ra2 Kh8 29. Kh1
+Qc3 30. Rd1 fxg3 31. Nge2 Qxe5 32. fxg3 Bf7 33. Rad2 Ne6 34. Rf1 Rg8 35. Qh4 Bg6
+36. g4 Qe3 37. Rd3 Bxd3 38. Nxd3 Qxd3 39. Qxh5 Qg6 40. Qe5+ Ng7 41. Rf6 Qb1+ 42.
+Kh2 Qh7 43. Qf4 Nh5 44. gxh5 Rxg2+ 45. Kxg2 Rg8+ 46. Kf2 Rg5 47. Rf8+ Rg8 48.
+Qf6+ Qg7 49. Qxg7+ Kxg7 50. Rxg8+ Kxg8 51. Kf3 Kf7 52. Kf4 b6 53. Ke5 c5 54.
+bxc5 bxc5 55. Kd5 Kf6 56. Kxc5 Kg5 57. Kb5 Kxh5 58. Ka6 Kh4 59. Kxa7 Kxh3 60.
+Kb6 h5 61. Nf4+ Kg4 62. Nxh5 Kxh5 63. a4 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -57,12 +84,27 @@ Rb6 Ke7 46. Rxc6 Kd7 47. Ra6 Kc7 48. Kf3 e5 49. Ra7+ Kc6 50. a5 Kb5 51. a6 f5
 [Round "4"]
 [White "Alex Smith"]
 [Black "Paul Arnone"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "1400"]
 [BlackElo "1304"]
 
 {[%SevillaID "1105"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.06.21"] [Round "?"] [White
+"maplesyrupd"] [Black "Arnone_Benoni"] [Result "0-1"] [TimeControl "1800+30"]
+[WhiteElo "1682"] [BlackElo "1640"] [Termination "Arnone_Benoni won by
+resignation"] [ECO "D35"] [EndTime "20:51:24 GMT+0000"] [Link
+"https://www.chess.com/game/live/170526421048? username=arnone_benoni&move=0"] 
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Bb4 6. e3 Be6 7. Bd3 c5 8. dxc5
+Bxc5 9. Nge2 h6 10. Bf4 Nc6 11. O-O Bd6 12. Bxd6 Qxd6 13. Qb3 Qe7 14. Qc2 O-O
+15. a3 Rfd8 16. Nb5 Rac8 17. Qd2 a6 18. Nbd4 Ne4 19. Bxe4 dxe4 20. Rac1 Nxd4 21.
+Nxd4 Rxc1 22. Rxc1 Rc8 23. Rc3 Rxc3 24. Qxc3 Bd5 25. b4 Qd7 26. Qc2 f5 27. g3
+Kf7 28. Kf1 Kf6 29. Ke1 Bc6 30. Kf1 Bb5+ 31. Kg2 Qd5 32. Qb3 Qc4 33. Qxc4 Bxc4
+34. h4 g5 35. hxg5+ hxg5 36. f4 exf3+ 37. Kxf3 Ke5 38. Nc2 Bd5+ 39. Ke2 Ke4 40.
+Ne1 Bc4+ 41. Kf2 Bd3 42. Nxd3 Kxd3 43. Kf3 Kc3 44. g4 fxg4+ 45. Kxg4 Kd3 46.
+Kxg5 Kxe3 47. Kf5 Kd4 48. Ke6 Kc4 49. Kd6 b5 50. Kc6 Kb3 51. Kb6 Kxa3 52. Kxa6
+Kxb4 53. Kb6 Kc4 54. Ka5 b4 55. Ka4 Kc3 56. Kb5 b3 57. Ka4 Kc2 58. Ka3 b2 59.
+Ka2 b1=Q+ 0-1 
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -92,12 +134,29 @@ Nb4 24. Qxd6 Nc6 25. Qxd8+ Nxd8 26. Re8+ Qxe8 27. Rxe8# 1-0
 [Round "4"]
 [White "Cody Weisel"]
 [Black "Nick Jaeger"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "1246"]
 [BlackElo "1365"]
 
 {[%SevillaID "1110"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.06.20"] [Round "-"] [White
+"cweisel"] [Black "jaegern"] [Result "1-0"] [CurrentPosition
+"3q3k/4p2p/p5p1/1pQBp3/8/8/P5PP/5R1K b - - 0 25"] [Timezone "UTC"] [ECO "A41"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d6"] [UTCDate
+"2026.06.20"] [UTCTime "23:58:28"] [WhiteElo "1819"] [BlackElo "1758"]
+[TimeControl "1800+30"] [Termination "cweisel won by resignation"] [StartTime
+"23:58:28"] [EndDate "2026.06.21"] [EndTime "00:30:41"] [Link
+"https://www.chess.com/analysis/game/live/170487242930/analysis? move=44"]
+[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif "]
+[WhiteCountry "2"] [WhiteTitle ""] [BlackUrl
+"https://images.chesscomfiles.com/uploads/v1/user/4772053.c93846c
+e.50x50o.e0bb68f99777.jpeg"] [BlackCountry "2"] [BlackTitle ""]  1. d4 d6 2. e3
+Nf6 3. Bd3 g6 4. f4 $6 Bg7 5. Nf3 O-O 6. O-O c5 7. c3 cxd4 8. exd4 Nc6 9. Nbd2
+Nd5 10. Nc4 b5 $6 11. Na3 $2 a6 $9 12. Be4 Be6 $6 13. Ng5 Rc8 $2 14. Nxe6 fxe6
+15. Qf3 $2 Nxd4 $2 16. cxd4 Bxd4+ 17. Kh1 Nxf4 18. Bxf4 e5 $6 19. Bd5+ Kh8 20.
+Qd3 Bxb2 21. Rab1 $2 Bxa3 $2 22. Qxa3 $9 Rc5 $2 23. Bxe5+ dxe5 24. Qxc5 Rxf1+
+25. Rxf1 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
