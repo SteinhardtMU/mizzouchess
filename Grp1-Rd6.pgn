@@ -46,27 +46,26 @@ Rh5+ e5 77. Rh8 Kd4 78. Rd8+ Ke4 79. Rh8 Ra2+ 80. Kg3 h2 81. Rh4+ Ke3 82. Rh5 e4
 [Site "Online/chess.com"]
 [Date "2026.07.05"]
 [Round "6"]
-[White "Paul Arnone"]
-[Black "Christian Kasten"]
-[Result "*"]
-[WhiteElo "1304"]
-[BlackElo "1644"]
-
-{[%SevillaID "1131"]}
-*
-
-[Event "2026 Mizzou Summer Invitational"]
-[Site "Online/chess.com"]
-[Date "2026.07.05"]
-[Round "6"]
 [White "Muktai Desai"]
 [Black "Henry Heil"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "1722"]
 [BlackElo "1716"]
 
 {[%SevillaID "1132"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.07.02"] [Round "?"] [White
+"MuktaiD"] [Black "SDAFan"] [Result "1-0"] [TimeControl "1800+30"] [WhiteElo
+"1128"] [BlackElo "2161"] [Termination "MuktaiD won by resignation"] [Link
+"https://www.chess.com/game/171041548310"]  1. e4 c6 2. d4 d5 3. exd5 cxd5 4.
+Bd3 Nc6 5. c3 Nf6 6. Nf3 Bg4 7. Nbd2 e6 8. h3 Bh5 9. Qb3 Qc7 10. g4 Bg6 11. Bxg6
+hxg6 12. Nf1 Nxg4 13. Ng3 Nf6 14. Be3 Bd6 15. Ne2 a6 16. O-O-O Na5 17. Qc2 b5
+18. Nd2 Rc8 19. Kb1 O-O 20. h4 b4 21. Qd3 bxc3 22. Nxc3 Qb7 23. Ka1 Nc4 24. Nxc4
+Rxc4 25. b3 Rb8 26. Bc1 Bb4 27. Bb2 Ba5 28. Rb1 Rcc8 29. Na4 Qb5 30. Qxb5 axb5
+31. Nc5 Bb4 32. Na6 Bd2 33. Nxb8 Rxb8 34. f3 b4 35. Rhd1 Be3 36. Rd3 Bf2 37. Rh1
+Nh5 38. Bc1 Rc8 39. Bd2 Bg3 40. Bxb4 f6 41. Kb2 e5 42. dxe5 Nf4 43. Rc3 Rxc3 44.
+Bxc3 fxe5 45. Bd2 Kf7 46. Bxf4 Bxf4 47. b4 e4 48. fxe4 Be5+ 49. Kc2 dxe4 50. Re1
+Ke6 51. Rxe4 Kd5 52. Rg4 Bf6 53. Rxg6 Kc4 54. Rg4+ Kb5 55. Kb3 Kb6 56. a4 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
