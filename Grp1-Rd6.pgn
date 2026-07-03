@@ -4,12 +4,24 @@
 [Round "6"]
 [White "Neil Fox"]
 [Black "Drew Shattuck"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "2218"]
 [BlackElo "1905"]
 
 {[%SevillaID "1129"]}
-*
+[Event "Fox-Shattuck: Chapter 1"] [Date "2026.07.03"] [White "Neil Fox"] [Black
+"Drew Shattuck"] [Result "0-1"] [Variant "Standard"] [ECO "A21"] [Opening
+"English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+[StudyName "Fox-Shattuck"] [ChapterName "Chapter 1"] [ChapterURL
+"https://lichess.org/study/Mm1RrDBj/wI0HFbno"] [Annotator
+"https://lichess.org/@/Pandiculation"] [UTCDate "2026.07.03"] [UTCTime
+"23:33:42"]  1. c4 e5 2. Nc3 Bb4 3. g3 Bxc3 4. bxc3 Nc6 5. Bg2 d6 6. d3 f5 7. e4
+Nf6 8. exf5 Bxf5 9. Ne2 O-O 10. O-O Qe8 11. Bg5 Qg6 12. Bxf6 Rxf6 13. d4 Bd3 14.
+Bd5+ Kh8 15. f3 Re8 16. Rf2 Na5 17. c5 dxc5 18. dxc5 c6 19. Nc1 cxd5 20. Qxd3
+Qf7 21. Qe2 Qe7 22. Nd3 e4 23. fxe4 dxe4 24. Rxf6 gxf6 25. Re1 Nc6 26. Qh5 Ne5
+27. Rxe4 Nf3+ 28. Qxf3 Qxe4 29. Qxf6+ Kg8 30. Qg5+ Qg6 31. Qd5+ Qf7 32. Qg5+ Kh8
+33. a4 Qg7 34. Qh5 Re3 35. Nf4 Qxc3 { White flagged. } 0-1 
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
