@@ -17,12 +17,31 @@
 [Round "7"]
 [White "Charles Steinhardt"]
 [Black "Muktai Desai"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "1585"]
 [BlackElo "1722"]
 
 {[%SevillaID "1163"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.07.09"] [Round "-"] [White
+"CSteinhardt"] [Black "MuktaiD"] [Result "1-0"] [CurrentPosition
+"2r1k3/p6R/1pn3p1/2p1Pp2/P7/1P5P/1B1R1KP1/8 b - - 0 37"] [Timezone "UTC"] [ECO
+"A11"] [ECOUrl
+"https://www.chess.com/openings/English-Opening-Caro-Kann-Defensive-System-2.Nf3-d5"]
+[UTCDate "2026.07.09"] [UTCTime "00:04:39"] [WhiteElo "2412"] [BlackElo "1128"]
+[TimeControl "1800+30"] [Termination "CSteinhardt won by resignation"]
+[StartTime "00:04:39"] [EndDate "2026.07.09"] [EndTime "00:57:07"] [Link
+"https://www.chess.com/analysis/game/live/171311419464/analysis? move=7"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/23971962.45a3d4
+16.50x50o.ae0b7d2fc012.gif"] [WhiteCountry "41"] [WhiteTitle ""] [BlackUrl
+"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif "]
+[BlackCountry "69"] [BlackTitle ""]  1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 Nbd7 5.
+e3 $6 Qc7 $6 6. Be2 $6 g6 $2 7. O-O $6 Bg7 $2 8. h3 $9 e6 9. b3 O-O 10. Bb2 b6
+11. Rc1 Bb7 $6 12. cxd5 exd5 $2 13. a4 $9 Qd8 14. Bd3 Re8 15. Ne2 Ne4 16. Qc2
+Rc8 17. Nc3 $6 Ndf6 $6 18. Ne5 c5 19. Nxe4 dxe4 $2 20. Bc4 $1 Nd5 21. f4 $9 Bxe5
+$9 22. fxe5 Rf8 $6 23. Qxe4 Bc6 24. e6 f5 25. Qe5 Qf6 $2 26. e7 Qxe5 27. exf8=Q+
+Kxf8 28. dxe5 $1 Nxe3 29. Rf2 Be4 30. Re1 Nxc4 31. Rxe4 Na5 32. Re3 Ke7 33. Rd2
+Nc6 34. Kf2 Nd8 35. Red3 Nc6 36. Rd7+ Ke8 37. Rxh7 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
