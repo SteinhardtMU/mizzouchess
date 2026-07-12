@@ -117,12 +117,22 @@ Rxa2 24. Rd1 Qf2+ 0-1
 [Round "7"]
 [White "Andrew Hellman"]
 [Black "Parker Johnson"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "1023"]
 [BlackElo "854"]
 
 {[%SevillaID "1167"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.07.12"] [Round "?"] [White
+"andrew550"] [Black "duck739"] [Result "1-0"] [TimeControl "1800+30"] [WhiteElo
+"1070"] [BlackElo "1001"] [Termination "andrew550 won by checkmate"] [ECO "C45"]
+[EndTime "2:51:46 GMT+0000"] [Link
+"https://www.chess.com/game/live/171450318648"]  1. e4 Nc6 2. d4 e5 3. Nf3 exd4
+4. Nxd4 Nxd4 5. Qxd4 Nf6 6. Nc3 Be7 7. Bg5 O-O 8. O-O-O b6 9. e5 Nh5 10. Bxe7
+Qxe7 11. Re1 Qg5+ 12. Kb1 Bb7 13. f3 Rad8 14. Nb5 c6 15. Nd6 Ba8 16. g4 Nf4 17.
+h4 Ne6 18. Qxb6 Qxe5 19. Rxe5 axb6 20. Bd3 c5 21. Rf1 Nd4 22. f4 Bc6 23. c4 Nf3
+24. h5 Nd2+ 25. Kc1 Nxf1 26. Bxf1 Rb8 27. Be2 f6 28. Re7 Ra8 29. a3 Ra5 30. h6
+gxh6 31. Nf5 Rd8 32. Bd3 Rf8 33. Nxh6+ Kh8 34. Rxh7# 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
