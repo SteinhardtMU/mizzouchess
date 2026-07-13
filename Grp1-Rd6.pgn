@@ -115,6 +115,23 @@ Qb7 29. Qxb7+ Kxb7 30. e7 bxc3 31. bxc3 a4 32. e8=Q a3 33. Qb5+ Kc7 34. Qc5+ Kb8
 [BlackElo "386"]
 
 {[%SevillaID "1137"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.07.09"] [Round "-"] [White
+"maplesyrupd"] [Black "BlackWolf022"] [Result "0-1"] [CurrentPosition
+"8/4kp2/p1B4p/P1KPb1p1/8/1rr5/5PPP/3R4 w - - 0 30"] [Timezone "UTC"] [ECO "D06"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit"] [UTCDate "2026.07.09"]
+[UTCTime "22:50:49"] [WhiteElo "1875"] [BlackElo "507"] [TimeControl "1800+30"]
+[Termination "BlackWolf022 won by checkmate"] [StartTime "22:50:49"] [EndDate
+"2026.07.09"] [EndTime "23:06:24"] [Link
+"https://www.chess.com/analysis/game/live/171355858654/analysis? move=0"]
+[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif "]
+[WhiteCountry "2"] [WhiteTitle ""] [BlackUrl
+"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif "]
+[BlackCountry "2"] [BlackTitle ""]  1. d4 d5 2. c4 Be6 $6 3. Nc3 dxc4 $2 4. e4
+b5 $6 5. Nxb5 Nf6 6. Nc3 Bd7 $6 7. Bxc4 h6 $6 8. Nf3 c5 9. Ne5 e6 10. Nxd7 $2
+Nbxd7 11. d5 exd5 12. exd5 Qe7+ 13. Qe2 Qxe2+ 14. Kxe2 $6 g5 $6 15. Be3 Bd6 16.
+a4 $6 Nb6 17. Bb5+ Ke7 18. Rad1 a6 19. Bc6 Rab8 20. a5 $2 Nc4 $1 21. Na4 Nxb2
+22. Nxb2 Rxb2+ 23. Kd3 $2 Rhb8 24. Bd2 $2 R8b3+ $1 25. Kc4 Ng4 $6 26. Rhe1+ Ne5+
+$1 27. Rxe5+ Bxe5 28. Kxc5 $2 Rc2+ $1 29. Bc3 Rcxc3# 0-1 
 0-1
 
 [Event "2026 Mizzou Summer Invitational"]
