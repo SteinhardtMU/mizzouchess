@@ -65,12 +65,23 @@ Kb2 55. Kd3 a2 56. Kc4 a1=Q 57. Kb4 Qa3+ 0-1
 [Round "8"]
 [White "Neil Fox"]
 [Black "Christian Kasten"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "2218"]
 [BlackElo "1644"]
 
 {[%SevillaID "1173"]}
-*
+[Event "Casual Game"] [Site "https://lichess.org/"] [Date "7/16/2026, 8:39:00
+PM"] [White "Anonymous"] [Black "Anonymous"] [Result ""] [PlyCount "94"] [FEN
+"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"] [Variant "Standard"]
+[Termination "?"]  c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. Nf3 e5 6. O-O Nge7 7.
+Nd5 O-O 8. d3 Rb8 9. Bg5 f6 10. Be3 d6 11. Nxe7+ Nxe7 12. Rb1 a5 13. Qc1 Be6 14.
+Bh6 Qd7 15. Bxg7 Kxg7 16. Rd1 h6 17. e3 Bg4 18. Rd2 Nc6 19. a3 f5 20. Qc3 Kh7
+21. d4 Bxf3 22. Bxf3 e4 23. Bg2 cxd4 24. exd4 b5 25. d5 b4 26. axb4 axb4 27. Qc2
+Ne5 28. c5 dxc5 29. Qxc5 Rfc8 30. Qd4 Qd6 31. b3 Rb7 32. h3 Rbc7 33. g4 Nd3 34.
+gxf5 Rc1+ 35. Rd1 gxf5 36. Rdxc1 Rxc1+ 37. Rxc1 Nxc1 38. Qc4 Nd3 39. Qd4 Kg6 40.
+f3 Qc5 41. Qxc5 Nxc5 42. fxe4 fxe4 43. Kf2 Kf6 44. Ke3 Ke5 45. d6 Kxd6 46. Bxe4
+Nxb3 47. Bc2 Nc5 
+1/2-1/2
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
