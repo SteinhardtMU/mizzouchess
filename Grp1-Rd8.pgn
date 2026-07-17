@@ -4,12 +4,21 @@
 [Round "8"]
 [White "Muktai Desai"]
 [Black "Drew Shattuck"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "1722"]
 [BlackElo "1905"]
 
 {[%SevillaID "1170"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.07.16"] [Round "?"] [White
+"MuktaiD"] [Black "drew_shattuck"] [Result "1-0"] [TimeControl "1800+30"]
+[WhiteElo "1128"] [BlackElo "2407"] [Termination "MuktaiD won by resignation"]
+[ECO "B32"] [EndTime "0:15:42 GMT+0000"] [Link
+"https://www.chess.com/game/live/171629459252"]  1. e4 c5 2. Nf3 Nc6 3. d4 cxd4
+4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be7 8. Be3 Nf6 9. f3 b5 10. Nd5 Nxd5 11.
+exd5 Nd4 12. Bxd4 exd4 13. Qxd4 O-O 14. c3 Bh4+ 15. g3 Bf6 16. Qd3 Re8+ 17. Be2
+b4 18. Nc2 bxc3 19. bxc3 Qb6 20. Nd4 Bxd4 21. Qxd4 Qb2 22. Qd1 Rxe2+ 23. Qxe2
+Qxa1+ 24. Kf2 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -17,12 +26,25 @@
 [Round "8"]
 [White "Paul Arnone"]
 [Black "Charles Steinhardt"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "1304"]
 [BlackElo "1585"]
 
 {[%SevillaID "1171"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.07.14"] [Round "?"] [White
+"Arnone_Benoni"] [Black "CSteinhardt"] [Result "0-1"] [TimeControl "1800+30"]
+[WhiteElo "1640"] [BlackElo "2412"] [Termination "CSteinhardt won by
+resignation"] [Link "https://www.chess.com/game/171585893472"]  1. d4 Nf6 2. c4
+c5 3. e3 d5 4. Nc3 cxd4 5. exd4 g6 6. Nf3 Bg7 7. Bf4 O-O 8. Be2 Nc6 9. O-O Bg4
+10. h3 Bxf3 11. Bxf3 e6 12. Bg5 dxc4 13. Be3 Nd5 14. Qa4 Nxd4 15. Bxd4 Bxd4 16.
+Qxc4 Bxc3 17. bxc3 Rc8 18. Qb3 Rxc3 19. Qxb7 Qa5 20. Rfd1 Rfc8 21. Bxd5 exd5 22.
+Rxd5 Qc7 23. Qxc7 R8xc7 24. Rad1 Ra3 25. R5d2 Rc4 26. Rb1 Rca4 27. Rbb2 Kg7 28.
+g3 h5 29. h4 g5 30. hxg5 h4 31. gxh4 Rxh4 32. Rd5 Kg6 33. Rd6+ Kxg5 34. Rb5+ f5
+35. Rd2 Rha4 36. Rdd5 Rg4+ 37. Kf1 Rf4 38. Rd2 Kg4 39. Rb3 Rf3 40. Rxa3 Rxa3 41.
+Rb2 Kf3 42. Rb3+ Rxb3 43. axb3 a5 44. Ke1 Kg2 45. Ke2 f4 46. f3 Kg3 47. Ke1 Kxf3
+48. Kf1 Ke3 49. Ke1 Kd3 50. Kf2 Kc3 51. Kf3 Kxb3 52. Kxf4 a4 53. Ke3 a3 54. Kd2
+Kb2 55. Kd3 a2 56. Kc4 a1=Q 57. Kb4 Qa3+ 0-1 
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -69,12 +91,21 @@
 [Round "8"]
 [White "Cole Patterson"]
 [Black "Henry Heil"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "1605"]
 [BlackElo "1716"]
 
 {[%SevillaID "1177"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.07.15"] [Round "?"] [White
+"Iamthemainline"] [Black "SDAFan"] [Result "0-1"] [TimeControl "1800+30"]
+[WhiteElo "1874"] [BlackElo "2173"] [Termination "SDAFan won by checkmate"]
+[Link "https://www.chess.com/game/171633074916? username=Iamthemainline"]  1. e4
+c6 2. d4 d5 3. exd5 cxd5 4. Bd3 g6 5. h3 Bf5 6. Bxf5 gxf5 7. Nf3 Nf6 8. Bf4 Nc6
+9. Nc3 Ne4 10. Ne5 h5 11. Qd3 e6 12. a3 Nxe5 13. Bxe5 f6 14. Qb5+ Qd7 15. Qxd7+
+Kxd7 16. Nxe4 fxe5 17. Nf6+ Kd6 18. dxe5+ Kxe5 19. Nd7+ Kd6 20. Nxf8 Rhxf8 21.
+O-O-O Rg8 22. Rhg1 b5 23. f4 Rg3 24. Rde1 Rag8 25. Re5 Rxg2 26. Rge1 R8g6 27.
+R1e3 Rf2 28. Rb3 Rg1+ 29. Re1 Rxe1# 0-1 
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
