@@ -52,12 +52,21 @@ Kb2 55. Kd3 a2 56. Kc4 a1=Q 57. Kb4 Qa3+ 0-1
 [Round "8"]
 [White "Nora Mavrakis"]
 [Black "Lincoln Peters"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "386"]
 [BlackElo "1830"]
 
 {[%SevillaID "1172"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.07.20"] [Round "?"] [White
+"BlackWolf022"] [Black "Lincoln"] [Result "0-1"] [TimeControl "1800+30"]
+[WhiteElo "450"] [BlackElo "2117"] [Termination "Lincoln won by checkmate"] [ECO
+"B50"] [EndTime "21:54:01 GMT+0000"] [Link
+"https://www.chess.com/game/live/171845909130"]  1. e4 c5 2. Nf3 d6 3. Bc4 e6 4.
+d4 cxd4 5. Nxd4 Nf6 6. Nc3 Be7 7. Be3 O-O 8. Qd2 a6 9. a4 Nc6 10. Nxc6 bxc6 11.
+a5 Nd7 12. O-O-O Qxa5 13. h4 Rb8 14. Na2 Qa4 15. Bb3 Rxb3 16. cxb3 Qxa2 17. Rh3
+Qxb3 18. Bh6 Qc4+ 19. Kb1 Qxe4+ 20. Ka1 Nc5 21. Qc3 Qa4+ 22. Kb1 Qxd1+ 23. Ka2
+Bf6 24. Qg3 e5 25. f4 Be6+ 26. Ka3 Qa4# 0-1 
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -89,12 +98,12 @@ Nxb3 47. Bc2 Nc5
 [Round "8"]
 [White "Jack Zeitz"]
 [Black "Cody Weisel"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "1667"]
 [BlackElo "1246"]
 
 {[%SevillaID "1174"]}
-*
+1/2-1/2
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -124,12 +133,12 @@ R1e3 Rf2 28. Rb3 Rg1+ 29. Re1 Rxe1# 0-1
 [Round "8"]
 [White "Noah Boucher"]
 [Black "Andrew Hellman"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "1144"]
 [BlackElo "1023"]
 
 {[%SevillaID "1178"]}
-*
+1/2-1/2
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -137,12 +146,22 @@ R1e3 Rf2 28. Rb3 Rg1+ 29. Re1 Rxe1# 0-1
 [Round "8"]
 [White "Riley Duncan"]
 [Black "Alex Smith"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "685"]
 [BlackElo "1400"]
 
 {[%SevillaID "1176"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.07.20"] [Round "?"] [White
+"RDunk1"] [Black "maplesyrupd"] [Result "1-0"] [TimeControl "1800+30"] [WhiteElo
+"1389"] [BlackElo "1808"] [Termination "RDunk1 won by checkmate"] [ECO "D00"]
+[EndTime "0:36:09 GMT+0000"] [Link
+"https://www.chess.com/game/live/171806339178"]  1. d4 Nf6 2. Nc3 d5 3. Bf4 e6
+4. e3 Bb4 5. Ne2 c5 6. a3 Bxc3+ 7. Nxc3 c4 8. Be2 Nc6 9. O-O O-O 10. b3 Qa5 11.
+Qd2 cxb3 12. cxb3 Re8 13. b4 Qd8 14. h4 e5 15. dxe5 Nxe5 16. Bxe5 Rxe5 17. Qd4
+Qe7 18. Rac1 Bd7 19. a4 Rc8 20. Bb5 Bxb5 21. axb5 Rc4 22. Qxa7 Qxb4 23. Nxd5 Qa4
+24. Qb8+ Re8 25. Nxf6+ gxf6 26. Qxe8+ Kg7 27. Rxc4 Qxc4 28. Rd1 Qxh4 29. Rd4 Qh5
+30. f3 f5 31. Qe5+ Kg6 32. Rd6+ f6 33. Qxf6# 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -150,11 +169,23 @@ R1e3 Rf2 28. Rb3 Rg1+ 29. Re1 Rxe1# 0-1
 [Round "8"]
 [White "Parker Johnson"]
 [Black "Nick Jaeger"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "854"]
 [BlackElo "1365"]
 
 {[%SevillaID "1175"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.07.18"] [Round "?"] [White
+"duckegg51"] [Black "jaegern"] [Result "1/2-1/2"] [TimeControl "1800+30"]
+[WhiteElo "907"] [BlackElo "1734"] [Termination "Game drawn by agreement"] [ECO
+"A53"] [EndTime "21:11:11 GMT+0000"] [Link
+"https://www.chess.com/game/live/171755510250"]  1. d4 d6 2. c4 Nf6 3. Nc3 g6 4.
+e3 Bg7 5. Nf3 O-O 6. Bd3 c5 7. O-O cxd4 8. exd4 Bg4 9. Re1 Nc6 10. Be3 Rc8 11.
+Be4 Nxe4 12. Nxe4 Bxf3 13. gxf3 a6 14. Rc1 Qd7 15. b3 f5 16. Nc3 f4 17. d5 fxe3
+18. dxc6 exf2+ 19. Kxf2 Qxc6 20. Qd5+ Qxd5 21. Nxd5 Bf6 22. Nxe7+ Bxe7 23. Rxe7
+Rf7 24. Rce1 Rcf8 25. Rxf7 Kxf7 26. Re4 g5 27. h4 h6 28. hxg5 hxg5 29. f4 Kg6
+30. Kg3 Kf5 31. Rd4 Rf7 32. fxg5 Kxg5 33. Rxd6 Kf5 34. Rd3 Rg7+ 35. Kf2 Ke4 36.
+Rd5 b5 37. Rd6 bxc4 38. bxc4 Rc7 39. Rxa6 Rxc4 40. Ke2 Kd4 41. Kd2 Kc5 42. a3
+Kb5 43. Ra8 Ra4 44. Rb8+ 1/2-1/2 
+1/2-1/2
 
 
