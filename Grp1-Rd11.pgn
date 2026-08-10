@@ -79,12 +79,24 @@ Bxg7) 28. Nxc5 $1 (28. Nxc5 $1 Rxc5 29. Bb4 Kd6 30. Bxc5+ $6 (30. Rd1+ Kc6)) 1-0
 [Round "11"]
 [White "Cody Weisel"]
 [Black "Cole Patterson"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "1246"]
 [BlackElo "1605"]
 
 {[%SevillaID "1327"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.08.09"] [Round "?"] [White
+"cweisel"] [Black "Iamthemainline"] [Result "0-1"] [TimeControl "1800+30"]
+[WhiteElo "1813"] [BlackElo "1858"] [Termination "Iamthemainline won by
+checkmate"] [ECO "D00"] [EndTime "16:41:25 GMT+0000"] [Link
+"https://www.chess.com/game/live/172752778752"]  1. d4 d5 2. e3 Bf5 3. c4 e6 4.
+Nf3 Nf6 5. Bd3 Bg6 6. Nc3 Nbd7 7. cxd5 exd5 8. O-O c6 9. Re1 Ne4 10. a4 Ndf6 11.
+Qc2 Bd6 12. h3 Qc7 13. Nd2 Bh2+ 14. Kf1 Nxf2 15. Kxf2 Bg3+ 16. Kf1 Bxe1 17. Kxe1
+Qg3+ 18. Kf1 O-O 19. Nf3 Rae8 20. Ne5 Re7 21. Ne2 Qh4 22. Nf3 Qh5 23. Ng3 Bxd3+
+24. Qxd3 Qg6 25. Qe2 Qxg3 26. Bd2 Rfe8 27. Re1 Nh5 28. Qd3 f6 29. Qb3 Qd6 30.
+Bb4 Ng3+ 31. Kf2 Ne4+ 32. Kg1 Qg3 33. Bxe7 Rxe7 34. Re2 g5 35. Qd3 h5 36. b4 g4
+37. hxg4 hxg4 38. Nd2 Nxd2 39. Qxd2 Rh7 40. Re1 Qh2+ 41. Kf1 g3 42. Qc3 Qh1+ 43.
+Ke2 Qxg2+ 44. Kd3 Rh2 45. b5 Qe4# 0-1 
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -92,12 +104,25 @@ Bxg7) 28. Nxc5 $1 (28. Nxc5 $1 Rxc5 29. Bb4 Kd6 30. Bxc5+ $6 (30. Rd1+ Kc6)) 1-0
 [Round "11"]
 [White "Nora Mavrakis"]
 [Black "Riley Duncan"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "386"]
 [BlackElo "685"]
 
 {[%SevillaID "1329"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.08.10"] [Round "?"] [White
+"BlackWolf022"] [Black "RDunk1"] [Result "0-1"] [TimeControl "1800+30"]
+[WhiteElo "339"] [BlackElo "1394"] [Termination "RDunk1 won by checkmate"] [ECO
+"B10"] [EndTime "6:11:22 GMT+0000"] [Link
+"https://www.chess.com/game/live/172777211682"]  1. e4 c6 2. Nc3 d5 3. exd5 cxd5
+4. d4 Nf6 5. Nf3 Bg4 6. Be2 Nc6 7. Ne5 Bxe2 8. Qxe2 e6 9. Qb5 Qc7 10. Bf4 Qb6
+11. Qxb6 axb6 12. Nb5 Rc8 13. Nxc6 Rxc6 14. c3 Be7 15. a4 O-O 16. a5 Nh5 17. Na7
+Rc4 18. Bd2 Ra8 19. axb6 Bd8 20. b3 Rcc8 21. O-O Rcb8 22. c4 Bxb6 23. Nb5 dxc4
+24. bxc4 Nf6 25. Bf4 Rc8 26. Nd6 Rd8 27. c5 Rxa1 28. Rxa1 Bxc5 29. dxc5 h6 30.
+Nxb7 Rd4 31. Be3 Rc4 32. Rc1 Rb4 33. c6 Nd5 34. c7 Nxc7 35. Nd6 Nd5 36. Bc5 Rb3
+37. Bd4 Nf4 38. Rc8+ Kh7 39. g3 Ne2+ 40. Kg2 Nxd4 41. Nxf7 Nf5 42. Rh8+ Kg6 43.
+Ne5+ Kf6 44. Ng4+ Kg5 45. h4+ Kxg4 46. Re8 Nd4 47. Rc8 Rb2 48. Rc4 e5 49. Rc7 g5
+50. hxg5 hxg5 51. Re7 Nf3 52. Re6 Ne1+ 53. Kf1 Rb1 54. Rf6 Nf3+ 55. Kg2 Rg1# 0-1
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
