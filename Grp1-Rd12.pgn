@@ -54,12 +54,22 @@ Ka3 35. f4 Kxa2 36. e5 g6 37. g4 b5 38. Kc5 Kb3 39. f5 b4 40. e6 Kc3 41. exf7 b3
 [Round "12"]
 [White "Nora Mavrakis"]
 [Black "Henry Heil"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "386"]
 [BlackElo "1716"]
 
 {[%SevillaID "1350"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.08.18"] [Round "?"] [White
+"BlackWolf022"] [Black "SDAFan"] [Result "0-1"] [TimeControl "1800+30"]
+[WhiteElo "395"] [BlackElo "2164"] [Termination "SDAFan won by checkmate"] [ECO
+"C11"] [EndTime "1:00:26 GMT+0000"] [Link
+"https://www.chess.com/live/game/173146105032"]  1. e4 e6 2. d4 d5 3. Nc3 Nf6 4.
+e5 Nfd7 5. Bd3 c5 6. Nf3 Nc6 7. Ng5 cxd4 8. Nb5 Ndxe5 9. Bxh7 Qa5+ 10. Bd2 Qxb5
+11. a4 Qa6 12. b4 Bxb4 13. Bxb4 Nxb4 14. Qxd4 Nbc6 15. Qf4 Qc4 16. Qxc4 Nxc4 17.
+O-O g6 18. f4 Kf8 19. g4 Kg7 20. f5 exf5 21. gxf5 Bxf5 22. Bxg6 Bxg6 23. Rad1
+Ne3 24. Rxf7+ Bxf7 25. Nxf7 Kxf7 26. Rd3 d4 27. c3 Rag8+ 28. Kh1 Rg2 29. cxd4
+Rhxh2# 0-1 
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -94,12 +104,21 @@ Kf4 48. Kd4 e5+ 49. Kd3 Kf5 50. Ke3 { Black resigns. } 1-0
 [Round "12"]
 [White "Nick Jaeger"]
 [Black "Parker Johnson"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "1365"]
 [BlackElo "854"]
 
 {[%SevillaID "1352"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.08.17"] [Round "?"] [White
+"jaegern"] [Black "duck739"] [Result "1-0"] [TimeControl "1800+30"] [WhiteElo
+"1738"] [BlackElo "1001"] [Termination "jaegern won by resignation"] [Link
+"https://www.chess.com/game/173148163186? username=jaegern"]  1. Nf3 d5 2. d3
+Nc6 3. g3 e5 4. Bg2 Nf6 5. O-O Bc5 6. c4 O-O 7. cxd5 Nxd5 8. Nc3 Be6 9. Nxd5
+Bxd5 10. a3 Nd4 11. Nxe5 Bxg2 12. Kxg2 Qd5+ 13. Nf3 Rfe8 14. e4 Qh5 15. Be3
+Qxf3+ 16. Qxf3 Nxf3 17. Kxf3 Bxe3 18. Kxe3 Re5 19. f4 Rb5 20. b4 Rd8 21. Rfc1
+Rb6 22. Rxc7 Rbd6 23. Rd1 R6d7 24. Rxd7 Rxd7 25. Rc1 f6 26. d4 Kf7 27. h3 h6 28.
+g4 g5 29. f5 b5 30. e5 Rd5 31. Ke4 Rd7 32. Rc6 Ke7 33. Rxf6 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
