@@ -28,12 +28,22 @@ Ka3 35. f4 Kxa2 36. e5 g6 37. g4 b5 38. Kc5 Kb3 39. f5 b4 40. e6 Kc3 41. exf7 b3
 [Round "12"]
 [White "Christian Kasten"]
 [Black "Lincoln Peters"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "1644"]
 [BlackElo "1830"]
 
 {[%SevillaID "1331"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.08.19"] [Round "?"] [White
+"Knightmare_fuel95"] [Black "Lincoln"] [Result "0-1"] [TimeControl "1800+30"]
+[WhiteElo "2108"] [BlackElo "2117"] [Termination "Lincoln won by resignation"]
+[ECO "C55"] [EndTime "21:23:12 GMT+0000"] [Link
+"https://www.chess.com/live/game/173236390496"]  1. e4 e5 2. Nf3 Nc6 3. d4 exd4
+4. Bc4 Nf6 5. e5 d5 6. Bb5 Nd7 7. O-O Be7 8. e6 fxe6 9. Bxc6 bxc6 10. Nxd4 Nb8
+11. Re1 Qd6 12. Qg4 O-O 13. Nxe6 Rf7 14. Bf4 Qb4 15. Nc3 Bxe6 16. Rxe6 Rxf4 17.
+Qh5 Nd7 18. Rae1 Nf6 19. Qg5 Rg4 20. Qe5 Bd6 21. Qe2 Rf8 22. a3 Qf4 23. g3 Rg6
+24. Kh1 Qf5 25. Nd1 Qh3 26. Kg1 Ng4 27. f4 Bc5+ 28. Kh1 Rxe6 29. Qxe6+ Kh8 30.
+Qe2 Bf2 0-1 
+0-1
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
@@ -144,6 +154,19 @@ g4 g5 29. f5 b5 30. e5 Rd5 31. Ke4 Rd7 32. Rc6 Ke7 33. Rxf6 1-0
 [BlackElo "1605"]
 
 {[%SevillaID "1354"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.08.23"] [Round "?"] [White
+"CSteinhardt"] [Black "Iamthemainline"] [Result "1-0"] [TimeControl "1800+30"]
+[WhiteElo "2412"] [BlackElo "1863"] [Termination "CSteinhardt won by
+resignation"] [Link "https://www.chess.com/game/173435109896"]  1. Nf3 d5 2. c4
+Nf6 3. cxd5 Bf5 4. Nc3 Nxd5 5. d3 Nxc3 6. bxc3 Nc6 7. e4 Bg4 8. d4 e6 9. Bb5 Qd6
+10. O-O O-O-O 11. Be3 Be7 12. c4 Bxf3 13. Qxf3 Nxd4 14. Qxf7 Rdf8 15. Qh5 g6 16.
+Qh3 c5 17. f4 a6 18. Ba4 Kb8 19. e5 Qd8 20. Rfd1 Rf5 21. Rab1 Rh5 22. Qg4 Rh4
+23. Qg3 Ne2+ 24. Kf2 Nxg3 25. Rxd8+ Rxd8 26. hxg3 Rh6 27. f5 g5 28. f6 Bxf6 29.
+exf6 Rxf6+ 30. Ke2 h6 31. Bxc5 Rc8 32. Bd6+ Ka7 33. c5 e5 34. Bd7 Rg8 35. c6
+Rxd6 36. Rxb7+ Ka8 37. Rb6 Ka7 38. Rb7+ Ka8 39. Rb6 Ka7 40. Rb2 Rb8 41. Rc2 Rd8
+42. Bg4 h5 43. Bf5 Rf6 44. c7 Rdf8 45. c8=Q Rxc8 46. Bxc8 Kb6 47. Bd7 Rd6 48.
+Rd2 Rf6 49. Ke3 Kc5 50. Ba4 h4 51. Bb3 hxg3 52. Rd5+ Kc6 53. Rxe5 Rf2 54. Rxg5
+1-0 
 *
 
 
