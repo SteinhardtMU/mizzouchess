@@ -51,12 +51,27 @@ Qe2 Bf2 0-1
 [Round "12"]
 [White "Muktai Desai"]
 [Black "Cody Weisel"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "1722"]
 [BlackElo "1246"]
 
 {[%SevillaID "1332"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2026.08.25"] [Round "?"] [White
+"MuktaiD"] [Black "cweisel"] [Result "1-0"] [TimeControl "1800+30"] [WhiteElo
+"1128"] [BlackElo "1813"] [Termination "MuktaiD won by resignation"] [ECO "B07"]
+[EndTime "1:19:13 GMT+0000"] [Link
+"https://www.chess.com/live/game/173482751774?move=0"]  1. e4 d6 2. d4 Nf6 3.
+Nc3 Nbd7 4. Nf3 e5 5. dxe5 dxe5 6. Be3 c6 7. Be2 Be7 8. Kf1 Ng4 9. Bd2 Qb6 10.
+Be1 Bc5 11. Na4 Qc7 12. Nxc5 Nxc5 13. Bd3 O-O 14. Bc3 Rd8 15. Qe2 f6 16. h3 Nh6
+17. g3 Be6 18. Kg2 a5 19. a3 b5 20. Bd2 Nf7 21. Be3 Nxd3 22. cxd3 Nd6 23. Rac1
+Qd7 24. Qc2 Ra6 25. Ne1 a4 26. f4 Bb3 27. Qe2 exf4 28. gxf4 Nb7 29. Rc3 Qe7 30.
+Nf3 c5 31. Nd2 b4 32. axb4 cxb4 33. Rcc1 Bf7 34. d4 Rad6 35. d5 R6d7 36. Kf2 Nd6
+37. Bc5 b3 38. Rhe1 Qe8 39. Nf3 Bh5 40. Qd3 Rc8 41. Nd4 Bg6 42. f5 Bh5 43. Ne6
+Nf7 44. Bd4 Rxc1 45. Rxc1 Qb8 46. Rg1 Nd8 47. Bxf6 Nxe6 48. fxe6 Qf4+ 49. Ke1
+Rc7 50. Bc3 Qc1+ 51. Kf2 Qf4+ 52. Kg2 Bg6 53. Re1 Rxc3 54. bxc3 b2 55. d6 Qg5+
+56. Kf2 Qc1 57. d7 Qf4+ 58. Kg1 Qg5+ 59. Kh1 Qd8 60. Qd6 Bxe4+ 61. Kh2 b1=Q 62.
+Rxb1 Bxb1 63. e7 1-0 
+1-0
 
 [Event "2026 Mizzou Summer Invitational"]
 [Site "Online/chess.com"]
